@@ -1,2 +1,0 @@
-print("Hello My  World!")
-print("Sorry bro i am hacker!")
