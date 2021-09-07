@@ -1,8 +1,0 @@
-class Nope{
-   public static void main(String args[]){
-    System.out.println("Hello World Welcome to channel!");
-    System.out.println("Hello my whole Universe!!!!!!!");
-    System.out.println("Current");
-   }
-
-}
