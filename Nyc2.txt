@@ -1,0 +1,17 @@
+#include <iostream>
+using namespace std;
+int main()
+{    
+    cout<<"Hello World"<<endl;
+    cout<<"Hey! Now it is worked"<<endl;
+    int x;
+    cout<<"Enter the value: ";
+    cin>>x;
+    cout<<"The value is: "<<x<<endl;
+   
+    cout<<"This is different than any of the software!"<<endl;
+    
+    
+
+    return 0;
+}
