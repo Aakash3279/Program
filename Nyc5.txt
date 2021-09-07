@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 #this file is end upto here!
+Bro bro bro please wait until i interfear!!!!!
+printf("Hello github!!!)
+My wish!
+=======
+this file written from github!!!
+>>>>>>> 51ac112e905c6719889379cc1a99208deab3d37c
+
+
